@@ -9,7 +9,6 @@
 ## I'm a Husband, Father, Developer, and Team Leader!!
 
 - 🔭 I’m currently working as flutter developer!
-- 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: using deeplearning models in flutter apps
 - ⚡ Fun fact: I love to draw and singing 
 
@@ -17,14 +16,18 @@
 ### Connect with me:
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/ibrahimbreem)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ibrahimbreem)
+
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ibrahim-breem/?locale=en_US)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ibrahim-breem/?locale=en_US)
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/ibrahim.breem)
-[![website](./img/instagram-dark.svg)](https://instagram.com/ibrahim.breem)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
