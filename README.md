@@ -47,9 +47,9 @@
 ### 📕 Latest works 
 
 <!- Google play -->
-- [a المنادي](https://play.google.com/store/apps/details?id=com.adv.almonadi);
-- [ 7tgamer](https://play.google.com/store/apps/details?id=com.Gamers.Shopping);
-- [ tanweel](https://play.google.com/store/apps/details?id=com.tanweel.app);
+- [a المنادي](https://play.google.com/store/apps/details?id=com.adv.almonadi)
+- [ 7tgamer](https://play.google.com/store/apps/details?id=com.Gamers.Shopping)
+- [ tanweel](https://play.google.com/store/apps/details?id=com.tanweel.app)
 
 
 
