@@ -1,4 +1,4 @@
-# Hi there, I'm Ibrahim - Breem 👋 
+# Hi there, I'm Ibrahim - Breem [Flutter Developer]👋 
 
 
 
@@ -8,7 +8,7 @@
 
 ## I'm a Husband, Father, Developer, and Team Leader!!
 
-- 🔭 I’m currently working as flutter developer!
+- 🔭 I’m currently working as freelancer on freelaner platforms!
 - 🥅 2022 Goals: using deeplearning models in flutter apps
 - ⚡ Fun fact: I love to draw and singing 
 
