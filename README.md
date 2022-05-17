@@ -9,7 +9,7 @@
 ## I'm a Husband, Father, Developer, and Team Leader!!
 
 - 🔭 I’m currently working as freelancer on freelaner platforms!
-- 🥅 2022 Goals: using deeplearning models in flutter apps
+- 🥅 2022 Goals: Using Deeplearning models in flutter apps
 - ⚡ Fun fact: I love to draw and singing 
 
 
