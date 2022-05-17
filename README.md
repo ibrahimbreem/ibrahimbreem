@@ -14,6 +14,17 @@
 
 
 
+[![website](./img/twitter-light.svg)](https://twitter.com/ibrahimalbreem)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ibrahimalbreem)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ibrahim-breem/?locale=en_US)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ibrahim-breem/?locale=en_US)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/ibrahim.breem)
+[![website](./img/instagram-dark.svg)](https://instagram.com/ibrahim.breem)
+
+
+
 
 ### Languages and Tools:
 
