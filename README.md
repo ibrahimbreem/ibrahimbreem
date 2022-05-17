@@ -33,7 +33,7 @@
 <img align="left" alt="dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
 <img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="json" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" style="padding-right:10px;" />
+<img align="left" alt="swift" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="padding-right:10px;" />
 
 
 
